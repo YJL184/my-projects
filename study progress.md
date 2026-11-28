@@ -10,7 +10,7 @@
 - [ ] Kali + Ubuntu 装好、会快照、常用命令 50 条（黑马 P2–42）
 - [ ] C 语言指针与链表、每周小程序、读懂 200 行他人代码
 - [ ] TCP/IP 四层 + Wireshark 抓包，讲清一次 HTTP 全过程
-- [ ] GitHub writeup 仓库建立、BUUCTF 50 题、CET-4 备考
+- [ ] GitHub writeup 仓库建立、CET-4 备考
 
 ### 大一下
 
